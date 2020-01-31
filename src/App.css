@@ -37,7 +37,7 @@
 
 .slides-box {
   background-color: white;
-  height: 75%;
+  height: 80%%;
   width: 75%;
   display: flex;
   flex-direction: column;
@@ -55,7 +55,7 @@
 .person-name {
   display: flex;
   padding-left: 5%;
-  padding-top: 5%;
+  padding-top: 1%;
   font-size: 32px;
   font-weight: bolder;
   text-decoration: underline;
